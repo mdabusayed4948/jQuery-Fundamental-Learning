@@ -1,0 +1,15 @@
+*{ margin: 0; padding: 0; outline: 0 }
+body{ font-family: arial; font-size: 18px; color: #444; line-height: 25px }
+.content{ background: #f0f0f0; width: 900px; margin: 0 auto; }
+.maincontent{ background: #fff; margin: 10px; min-height: 500px; padding: 5px 10px;}
+.header, .footer{ text-align: center; background: #ddd; padding: 10px; }
+.para{  width: 830px; background: #F0F0F0; border: 1px solid gray; margin-top: 10px; }
+
+.dimen {
+  background: #ddd none repeat scroll 0 0;
+  border: 40px solid #999;
+  margin: 40px;
+  padding: 40px;
+  text-align: center;
+  font-size: 48px;
+}
